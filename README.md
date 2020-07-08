@@ -14,8 +14,8 @@ Preview:
 
 <img src="https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">
  
-<img src="https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">
+<img src="https://github.com/chandran-jr/breakoutball-game/blob/master/breakout.PNG">
  
-<img src="https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">                                                                                     
+<img src="https://github.com/chandran-jr/breakoutball-game/blob/master/break.PNG">                                                                                     
                                                                                        
  
