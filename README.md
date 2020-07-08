@@ -12,10 +12,10 @@ The Jar file when opened would take you to the game.
 
 Preview:
 
-<img src=https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">
+<img src="https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">
  
-<img src=https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">
+<img src="https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">
  
-<img src=https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">                                                                                     
+<img src="https://github.com/chandran-jr/breakoutball-game/blob/master/breakoutball.PNG">                                                                                     
                                                                                        
  
